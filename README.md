@@ -1,10 +1,10 @@
-#Non-Linear Systems.
+# Non-Linear Systems.
 
 This repository explains several examples of Non-linear systems studied in Physics and Computational sciences.
 
 ## Rossler System
 
-[Rossler_system.ipynb](https://github.com/KrishnaAggarwal2003/Non-Linear-systems/blob/main/Rossler_system.ipynb) file contains the equations for Rossler System. It depicts the oscillatory and chaotic behaviour in form of plots for varying all 3 parameters in model along with Bifurcation diagram for all 3 parameters.
+[Rossler_system.ipynb](https://github.com/KrishnaAggarwal2003/Non-Linear-systems/blob/main/Rossler_system.ipynb) file contains the equations for the **Rossler System**. It depicts the oscillatory and chaotic behaviour in the form of plots for varying all 3 parameters in the model along with the <u> Bifurcation diagram </u> for all 3 parameters.
 
 ## Other Systems
 
